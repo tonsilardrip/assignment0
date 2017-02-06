@@ -1,18 +1,10 @@
+# This is just to extend the Cost Calculator
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+This app just takes the user's input and gives them a result based on what they selected and the tip amount 
+
+## Getting Started
 
 
-Hi there! Welcome to Cloud9 IDE!
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
 
-Happy coding!
-The Cloud9 IDE team
+![alt text](https://lh3.googleusercontent.com/QGgNSjAMF74rKw4ji5x4nrGdzbW-gf-upPzD3I2Bq8I-04b2WsRSOTnPpLs8zpz9zw=w300 "Tip Calculator")
